@@ -1,5 +1,28 @@
 
 
+@import url(https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/20953438_10159158749020317_6553301253367602145_n.jpg?oh=621a4996ad2729fd6a6a92d61b0012f9&oe=5AA9B10A)
+
+body {
+    background-color: green;
+}
+
+h1 {
+    color: green;
+    margin-left: 20px;
+}
+p1 {
+    color: red;
+    margin-left: 20px;
+}
+
+h1
+.special {
+    color: #FF0000;
+}
+p
+{
+    color #00B4CC;
+}
 #primary-nav{
     background-color:#563d7c !important;
 }
@@ -18,4 +41,19 @@
 #grey-button:hover{
     background-color:  #868e96;
     color: white;
-
+/*
+{
+  position: absolute;  
+  right: -50px;
+  width: 40px;
+  height: 36px;
+  border: 1px solid #f49842;
+  background: #e81938;
+  text-align: center;
+  color: #e81938;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 20px;
+}
+*/
+    
